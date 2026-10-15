@@ -376,5 +376,227 @@
     "showRating": true,
     "showDuration": true,
     "showQuality": true
+  },
+  {
+    "id": "m_mike_nick_alice_2026",
+    "title": "MIKE Y NICK Y NICK Y ALICE",
+    "year": 2026,
+    "genre": [
+      "Acción",
+      "Comedia",
+      "Ciencia ficción"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/k6PSvLUs84QJsWLt0Zlkoa8ih6V.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/k6PSvLUs84QJsWLt0Zlkoa8ih6V.jpg",
+    "videoUrl": "https://megankiddifference.com/e/vhfpsrhf9v1c",
+    "url": "https://megankiddifference.com/e/vhfpsrhf9v1c",
+    "synopsis": "Nick y Mike son gánsteres atrapados donde Alice mantiene una relación turbulenta con ambos. La noche parece tranquila hasta que un Nick del futuro aparece para advertirles de un peligro inminente. Acción, comedia y viajes en el tiempo.",
+    "director": "Ben David Grabinski",
+    "cast": [
+      "Varios"
+    ],
+    "rating": "95% coincidencia",
+    "duration": "1h 47m",
+    "quality": "1080p",
+    "type": "movie",
+    "showYear": true,
+    "showGenre": true,
+    "showDirector": true,
+    "showCast": true,
+    "showSynopsis": true,
+    "showRating": true,
+    "showDuration": true,
+    "showQuality": true
+  },
+  {
+    "id": "m_te_van_a_matar_2026",
+    "title": "TE VAN A MATAR",
+    "year": 2026,
+    "genre": [
+      "Terror",
+      "Acción",
+      "Comedia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/xnb15logFGJRniA7Ud3NILSPPhs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/xnb15logFGJRniA7Ud3NILSPPhs.jpg",
+    "videoUrl": "https://megankiddifference.com/e/hm4rogad6yar",
+    "url": "https://megankiddifference.com/e/hm4rogad6yar",
+    "synopsis": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Deberá sobrevivir la noche en la retorcida guarida-trampa de un culto demoníaco. Warner Bros, dirigida por Kirill Sokolov.",
+    "director": "Kirill Sokolov",
+    "cast": [
+      "Zazie Beetz"
+    ],
+    "rating": "95% coincidencia",
+    "duration": "1h 34m",
+    "quality": "1080p",
+    "type": "movie",
+    "showYear": true,
+    "showGenre": true,
+    "showDirector": true,
+    "showCast": true,
+    "showSynopsis": true,
+    "showRating": true,
+    "showDuration": true,
+    "showQuality": true
+  },
+  {
+    "id": "m_intercambiados_2026",
+    "title": "INTERCAMBIADOS",
+    "year": 2026,
+    "genre": [
+      "Animación",
+      "Aventura",
+      "Comedia"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/cFMqLI43ybVFyarJTnfV9YO9KUC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/cFMqLI43ybVFyarJTnfV9YO9KUC.jpg",
+    "videoUrl": "https://megankiddifference.com/e/mz0dk07rj6ay",
+    "url": "https://megankiddifference.com/e/mz0dk07rj6ay",
+    "synopsis": "Intercambiados (Swapped) - Tras un intercambio de cuerpos, un grupo de animales debe aprender a vivir en el cuerpo del otro. Película animada de Netflix dirigida por Nathan Greno (Enredados), con Michael B. Jordan y Juno Temple.",
+    "director": "Nathan Greno",
+    "cast": [
+      "Michael B. Jordan",
+      "Juno Temple",
+      "Justina Machado"
+    ],
+    "rating": "95% coincidencia",
+    "duration": "1h 42m",
+    "quality": "1080p",
+    "type": "movie",
+    "showYear": true,
+    "showGenre": true,
+    "showDirector": true,
+    "showCast": true,
+    "showSynopsis": true,
+    "showRating": true,
+    "showDuration": true,
+    "showQuality": true
+  },
+  {
+    "id": "m_dobles_de_accion_2023",
+    "title": "DOBLES DE ACCIÓN",
+    "year": 2023,
+    "genre": [
+      "Acción",
+      "Comedia",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/arF1VcDtjuK4AV43FSQNKOl0J23.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/arF1VcDtjuK4AV43FSQNKOl0J23.jpg",
+    "videoUrl": "https://megankiddifference.com/e/a007zwlji1uu",
+    "url": "https://megankiddifference.com/e/a007zwlji1uu",
+    "synopsis": "Un doble de acción veterano y su caballo se vuelven virales por accidente. Jackie Chan protagoniza esta celebración de su carrera en el cine de acción. Ride On, dirigida por Larry Yang.",
+    "director": "Larry Yang",
+    "cast": [
+      "Jackie Chan",
+      "Liu Haocun",
+      "Guo Qilin"
+    ],
+    "rating": "95% coincidencia",
+    "duration": "2h 6m",
+    "quality": "1080p",
+    "type": "movie",
+    "showYear": true,
+    "showGenre": true,
+    "showDirector": true,
+    "showCast": true,
+    "showSynopsis": true,
+    "showRating": true,
+    "showDuration": true,
+    "showQuality": true
+  },
+  {
+    "id": "m_moana_2026",
+    "title": "MOANA",
+    "year": 2026,
+    "genre": [
+      "Aventura",
+      "Fantasía",
+      "Animación"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/aJyEvvIrfSCBoxBXtqwqDnFnlVB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/aJyEvvIrfSCBoxBXtqwqDnFnlVB.jpg",
+    "videoUrl": "https://megankiddifference.com/e/uls0mvll79sb",
+    "url": "https://megankiddifference.com/e/uls0mvll79sb",
+    "synopsis": "Versión live-action de Moana. La joven navegante recibe una llamada de sus antepasados para viajar a los lejanos mares de Oceanía junto a Maui. Disney, 2026.",
+    "director": "Thomas Kail",
+    "cast": [
+      "Catherine Laga'aia",
+      "Dwayne Johnson"
+    ],
+    "rating": "95% coincidencia",
+    "duration": "1h 40m",
+    "quality": "4K",
+    "type": "movie",
+    "showYear": true,
+    "showGenre": true,
+    "showDirector": true,
+    "showCast": true,
+    "showSynopsis": true,
+    "showRating": true,
+    "showDuration": true,
+    "showQuality": true
+  },
+  {
+    "id": "m_la_invitacion_2026",
+    "title": "LA INVITACIÓN",
+    "year": 2026,
+    "genre": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "https://caribbeancinemas.com/img/postersxlesp/5104.jpg",
+    "backdrop": "https://caribbeancinemas.com/img/postersxlesp/5104.jpg",
+    "videoUrl": "https://megankiddifference.com/e/heszdex3t36p",
+    "url": "https://megankiddifference.com/e/heszdex3t36p",
+    "synopsis": "Una tensa comedia sobre el amor, el deseo y la complejidad de las relaciones. Una pareja recibe una invitación inesperada que pondrá a prueba su relación.",
+    "director": "Varios",
+    "cast": [
+      "Varios"
+    ],
+    "rating": "95% coincidencia",
+    "duration": "1h 35m",
+    "quality": "1080p",
+    "type": "movie",
+    "showYear": true,
+    "showGenre": true,
+    "showDirector": true,
+    "showCast": true,
+    "showSynopsis": true,
+    "showRating": true,
+    "showDuration": true,
+    "showQuality": true
+  },
+  {
+    "id": "m_proyecto_fin_mundo_2026",
+    "title": "PROYECTO FIN DEL MUNDO",
+    "year": 2026,
+    "genre": [
+      "Ciencia ficción",
+      "Aventura",
+      "Comedia"
+    ],
+    "poster": "https://conectados.sonypictures.com/wp-content/uploads/2026/03/PROYECTO-FIN-DEL-MUNDO__920x1360-MARQUEES-SONY.jpg",
+    "backdrop": "https://conectados.sonypictures.com/wp-content/uploads/2026/03/PROYECTO-FIN-DEL-MUNDO__920x1360-MARQUEES-SONY.jpg",
+    "videoUrl": "https://megankiddifference.com/e/hknzxqwown8e",
+    "url": "https://megankiddifference.com/e/hknzxqwown8e",
+    "synopsis": "Proyecto Salvación (Project Hail Mary) - Un astronauta amnésico despierta en una nave espacial lejos de la Tierra y debe salvar a la humanidad de la extinción. Basada en la novela de Andy Weir, con Ryan Gosling. Sony Pictures.",
+    "director": "Phil Lord, Christopher Miller",
+    "cast": [
+      "Ryan Gosling"
+    ],
+    "rating": "95% coincidencia",
+    "duration": "2h 20m",
+    "quality": "4K",
+    "type": "movie",
+    "showYear": true,
+    "showGenre": true,
+    "showDirector": true,
+    "showCast": true,
+    "showSynopsis": true,
+    "showRating": true,
+    "showDuration": true,
+    "showQuality": true
   }
 ]
