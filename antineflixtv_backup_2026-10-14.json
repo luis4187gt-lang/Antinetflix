@@ -238,5 +238,139 @@
     "showRating": true,
     "showDuration": true,
     "showQuality": true
+  },
+  {
+    "id": "m_scary_movie_6_2026",
+    "title": "SCARY MOVIE: TERRORÍFICAMENTE INCORRECTA",
+    "year": 2026,
+    "genre": [
+      "Comedia",
+      "Terror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/12pyWcYMAgSDt125XJXkVmkNyKT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/12pyWcYMAgSDt125XJXkVmkNyKT.jpg",
+    "videoUrl": "https://megankiddifference.com/e/obicukdooyuu",
+    "url": "https://megankiddifference.com/e/obicukdooyuu",
+    "synopsis": "Sexta entrega de la saga Scary Movie. Parodia de las películas de terror más recientes con el regreso de la familia Wayans y Anna Faris. Una comedia de terror que revive la magia del original del 2000.",
+    "director": "Michael Tiddes",
+    "cast": [
+      "Anna Faris",
+      "Regina Hall",
+      "Marlon Wayans",
+      "Shawn Wayans",
+      "Jon Abrahams"
+    ],
+    "rating": "95% coincidencia",
+    "duration": "1h 35m",
+    "quality": "1080p",
+    "type": "movie",
+    "showYear": true,
+    "showGenre": true,
+    "showDirector": true,
+    "showCast": true,
+    "showSynopsis": true,
+    "showRating": true,
+    "showDuration": true,
+    "showQuality": true
+  },
+  {
+    "id": "m_guardian_ultimo_refugio_2026",
+    "title": "EL GUARDIÁN: ÚLTIMO REFUGIO",
+    "year": 2026,
+    "genre": [
+      "Acción",
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/u6YE4rlEWOiYoqhPJuNvt5GHxgu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/6i5TNgJmmT3csJGmfyyivCh2qgj.jpg",
+    "videoUrl": "https://megankiddifference.com/e/y0prmh5ofoq8",
+    "url": "https://megankiddifference.com/e/y0prmh5ofoq8",
+    "synopsis": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos que culminan en un ataque a su casa, obligándole a enfrentarse a su turbulenta historia. Protagonizada por Jason Statham.",
+    "director": "Ric Roman Waugh",
+    "cast": [
+      "Jason Statham",
+      "Bodhi Rae Breathnach",
+      "Bill Nighy",
+      "Naomi Ackie",
+      "Bally Gill"
+    ],
+    "rating": "95% coincidencia",
+    "duration": "1h 47m",
+    "quality": "1080p",
+    "type": "movie",
+    "showYear": true,
+    "showGenre": true,
+    "showDirector": true,
+    "showCast": true,
+    "showSynopsis": true,
+    "showRating": true,
+    "showDuration": true,
+    "showQuality": true
+  },
+  {
+    "id": "m_boda_sangrienta_2_2026",
+    "title": "BODA SANGRIENTA 2",
+    "year": 2026,
+    "genre": [
+      "Terror",
+      "Comedia",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/oR1oiQ3YnpWjRE42I0Rb8LBd8Dg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/oR1oiQ3YnpWjRE42I0Rb8LBd8Dg.jpg",
+    "videoUrl": "https://megankiddifference.com/e/z1j0oqbgh1xl",
+    "url": "https://megankiddifference.com/e/z1j0oqbgh1xl",
+    "synopsis": "Secuela de Boda Sangrienta (2019). Grace lucha una vez más por su vida tras sobrevivir al ataque de la familia Le Domas. Ahora enfrenta nuevas amenazas y nuevas alianzas en una noche sangrienta llena de humor negro.",
+    "director": "Matt Bettinelli-Olpin, Tyler Gillett",
+    "cast": [
+      "Samara Weaving",
+      "Kathryn Newton",
+      "Adam Brody",
+      "Mark O'Brien"
+    ],
+    "rating": "95% coincidencia",
+    "duration": "1h 34m",
+    "quality": "1080p",
+    "type": "movie",
+    "showYear": true,
+    "showGenre": true,
+    "showDirector": true,
+    "showCast": true,
+    "showSynopsis": true,
+    "showRating": true,
+    "showDuration": true,
+    "showQuality": true
+  },
+  {
+    "id": "m_180_2026",
+    "title": "180",
+    "year": 2026,
+    "genre": [
+      "Drama",
+      "Suspense",
+      "Crimen"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+    "videoUrl": "https://megankiddifference.com/e/w0zovn3aocra",
+    "url": "https://megankiddifference.com/e/w0zovn3aocra",
+    "synopsis": "Cuando un inesperado incidente de tráfico deja a su hijo en estado crítico, un padre enfurecido se adentra en una oscura espiral de confusión emocional y venganza. Intenso thriller de suspense, crimen y drama.",
+    "director": "Alex Yazbek",
+    "cast": [
+      "Varios"
+    ],
+    "rating": "95% coincidencia",
+    "duration": "1h 34m",
+    "quality": "1080p",
+    "type": "movie",
+    "showYear": true,
+    "showGenre": true,
+    "showDirector": true,
+    "showCast": true,
+    "showSynopsis": true,
+    "showRating": true,
+    "showDuration": true,
+    "showQuality": true
   }
 ]
