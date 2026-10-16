@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-10-16T02:34:33.162851Z",
-  "total": 55,
+  "exportedAt": "2026-10-16T03:23:12.839348Z",
+  "total": 56,
   "catalog": [
     {
       "id": "m1792007137069",
@@ -1878,7 +1878,49 @@
       "showRating": true,
       "showDuration": true,
       "showQuality": true
+    },
+    {
+      "id": "m_mortal_kombat_ii_2026",
+      "title": "MORTAL KOMBAT II (2026)",
+      "year": 2026,
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Fantasía"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+      "videoUrl": "https://megankiddifference.com/e/etqlxbaz5hdx",
+      "url": "https://megankiddifference.com/e/etqlxbaz5hdx",
+      "synopsis": "En Mortal Kombat II (2026), los campeones de la Tierra regresan para enfrentar la amenaza definitiva: el torneo oficial de Mortal Kombat. Acompañados por el carismático y arrogante estrella de artes marciales Johnny Cage (Karl Urban), Cole Young, Sonya Blade y el resto de defensores del Earthrealm deben unirse para detener el ascenso del emperador Shao Kahn. Los campeones favoritos de los fans deben enfrentarse en combates decisivos para evitar la destrucción total del Reino Tierra en el torneo más brutal y sangriento hasta la fecha.",
+      "director": "Simon McQuoid",
+      "cast": [
+        "Karl Urban",
+        " Adeline Rudolph",
+        " Jessica McNamee",
+        " Josh Lawson",
+        " Ludi Lin",
+        " Mehcad Brooks",
+        " Tati Gabrielle",
+        " Lewis Tan",
+        " Damon Herriman",
+        " Chin Han",
+        " Tadanobu Asano",
+        " Joe Taslim",
+        " Hiroyuki Sanada"
+      ],
+      "rating": "95% coincidencia",
+      "duration": "1h 56m",
+      "quality": "1080p",
+      "type": "movie",
+      "showYear": true,
+      "showGenre": true,
+      "showDirector": true,
+      "showCast": true,
+      "showSynopsis": true,
+      "showRating": true,
+      "showDuration": true,
+      "showQuality": true
     }
   ]
 }
-
