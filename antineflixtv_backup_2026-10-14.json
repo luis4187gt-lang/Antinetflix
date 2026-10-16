@@ -1,7 +1,44 @@
 {
-  "exportedAt": "2026-10-16T04:03:17.294467Z",
-  "total": 86,
+  "exportedAt": "2026-10-16T04:37:27.849167Z",
+  "total": 87,
   "catalog": [
+    {
+      "id": "s_linternas_2026_cap1",
+      "title": "LINTERNAS (2026) - CAPÍTULO 1",
+      "year": 2026,
+      "genre": [
+        "Acción",
+        "Ciencia ficción",
+        "Misterio",
+        "Drama"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/3QrVTie1VAdVcBjlr6kF0rm3yeW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3QrVTie1VAdVcBjlr6kF0rm3yeW.jpg",
+      "videoUrl": "https://iframe.andromedans.live/e/eu6oyhupyjf6",
+      "url": "https://iframe.andromedans.live/e/eu6oyhupyjf6",
+      "synopsis": "Hal Jordan (Kyle Chandler), el veterano Linterna Verde, debe entrenar a su nuevo recluta John Stewart (Aaron Pierre) mientras investigan un misterioso asesinato en Nebraska. Lo que parece un caso terrenal los lleva a descubrir un oscuro secreto que amenaza al universo. La primera serie del nuevo DCU de James Gunn, al estilo True Detective.",
+      "director": "James Hawes",
+      "cast": [
+        "Kyle Chandler",
+        " Aaron Pierre",
+        " Kelly Macdonald",
+        " Nathan Fillion",
+        " Ulrich Thomsen",
+        " Poorna Jagannathan"
+      ],
+      "rating": "95% coincidencia",
+      "duration": "58m",
+      "quality": "1080p",
+      "type": "series",
+      "showYear": true,
+      "showGenre": true,
+      "showDirector": true,
+      "showCast": true,
+      "showSynopsis": true,
+      "showRating": true,
+      "showDuration": true,
+      "showQuality": true
+    },
     {
       "id": "m1792007137069",
       "title": "AVATAR: FUEGO Y CENIZAS",
@@ -2279,8 +2316,8 @@
         "Aventura",
         "Fantasía"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/ppcDeziFymu7DBbjItsMHJ70Smd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ppcDeziFymu7DBbjItsMHJ70Smd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/6QZ1Q1soR5kO3b3Z3b3Z3b3Z3b3Z3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6QZ1Q1soR5kO3b3Z3b3Z3b3Z3b3Z3.jpg",
       "videoUrl": "https://megankiddifference.com/e/2aejsexuo0ul",
       "url": "https://megankiddifference.com/e/2aejsexuo0ul",
       "synopsis": "Cuando un nuevo y peligroso trol despierta y desata el caos en Noruega, Nora, Andreas y el comandante Kris se embarcan en la misión más peligrosa de sus vidas para evitar la destrucción total del país.",
@@ -2567,8 +2604,8 @@
         "Crimen",
         "Thriller"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/70Na5MXfOsFlJvoX6oKYAwOhNN9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/70Na5MXfOsFlJvoX6oKYAwOhNN9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/kCl8p0T3i5Z9y2Xv3y5X3y5X3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/kCl8p0T3i5Z9y2Xv3y5X3y5X3.jpg",
       "videoUrl": "https://megankiddifference.com/e/nhqebvcl9id9",
       "url": "https://megankiddifference.com/e/nhqebvcl9id9",
       "synopsis": "Parker es un experto ladrón con un código de honor. Cuando le ofrecen el robo más grande de su carrera, que lo enfrenta a un dictador sudamericano, la mafia de Nueva York y al hombre más rico del mundo, deberá aliarse con la astuta Zen para sobrevivir.",
